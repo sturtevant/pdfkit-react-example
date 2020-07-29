@@ -3,6 +3,8 @@ This is a simple example of using [PdfKit](https://pdfkit.org/) with React (boot
 
 It is based on [`pdfkit-webpack-example`](https://github.com/blikblum/pdfkit-webpack-example).
 
+[Live preview here.](https://sturtevant.github.io/pdfkit-react-example/)
+
 ## Notes
 
 - [`react-ace`](https://github.com/securingsincity/react-ace) is used for the in-browser code editting.
@@ -13,7 +15,7 @@ It is based on [`pdfkit-webpack-example`](https://github.com/blikblum/pdfkit-web
 
 The first time: in the project directory, run `npm install`.
 
-Then to run `npm start` to run the app in the development mode.<br />
+Then run `npm start` to start the app in development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
